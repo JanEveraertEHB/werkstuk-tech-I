@@ -1,5 +1,8 @@
 # Werkstuk technology
 
+Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbare mappen. Let op, lees de "info.txt" die hierin zit, beeldmateriaal moet volledig zijn. ZOrg voor voldoende foto's van je breadboard en opstelling.
+
+
 ## Eige informatie
 
 - Voornaam Achternaam
